@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            GoProject
+title:            belltoy
 tagline:          'A Jekyll theme'
-description:      'PFC sobre la creación de una plataforma online de Go utilizando <a href="https://www.meteor.com/" target="_blank">Meteor</a>.'
-url:              http://goproject.meteor.com
+description:      'Stuff about programming'
+url:              http://belltoy.net
 baseurl:          /
 
 author:
-  name:           'Víctor Manuel González Mira'
-  url:            https://twitter.com/_shadowlink_
+  name:           'belltoy'
+  url:            https://twitter.com/belltoy
 
-paginate:         5
+paginate:         15
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/shadowlink/goproject
+  repo:           https://github.com/belltoy/belltoy.github.io
