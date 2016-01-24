@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            belltoy
@@ -24,3 +23,5 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/belltoy/belltoy.github.io
+
+gems: [jekyll-paginate]
