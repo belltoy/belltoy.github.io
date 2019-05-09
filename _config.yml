@@ -25,3 +25,5 @@ github:
   repo:           https://github.com/belltoy/belltoy.github.io
 
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-hacker
